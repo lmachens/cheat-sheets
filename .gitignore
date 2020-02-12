@@ -1,0 +1,4 @@
+# ignore password files
+passwords/
+
+logs
